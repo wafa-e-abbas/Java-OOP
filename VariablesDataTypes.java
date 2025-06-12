@@ -6,7 +6,7 @@ Syntax-> datatype variableName;
 Initialization:
 Syntax-> variableName = value;
         or
-Declaration + Initialization:
+Declaration + Initialization = LITERRAL
 Syntax-> dataType variableName = value;
 
 Data Type: refers to the type of a value a variable has
